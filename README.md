@@ -21,3 +21,7 @@ Este é um projeto simples de CRUD (Create, Read, Update, Delete) usando Node.js
 
 ```bash
 curl -X POST http://localhost:3000/users -H "Content-Type: application/json" -d '{"name":"João","email":"joao@example.com"}'
+
+
+
+
